@@ -27,6 +27,17 @@ console.log(a<b);
 console.log(a>=b);
 console.log(a<=b);
 
+//logial operation
+var a =10;
+var b =20;
+console.log("logical Operator")
+console.log(a>0 && b>0);
+console.log(a>0 && b<0);
+console.log(a<0 || b<0);
+console.log(!(a>0));
+console.log(!(a<0));
+
+
 
 
 
