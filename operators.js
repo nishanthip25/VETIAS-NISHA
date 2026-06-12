@@ -45,6 +45,13 @@ console.log(c--);
 console.log(++c);
 console.log(--c);
 
+//ternary operator
+var a =10;
+var b =20;
+var result = (a>b) ? "a is greater" : " b is greater"; 
+console.log("ternary operator")
+console.log(result)
+
 
 
 
