@@ -19,3 +19,14 @@ do {
     console.log("2 * " + k + " = " + (2 * k));
     k++;
 } while(k <= 10);
+
+//DO WHILE LOOP
+
+let count = 6
+do
+{
+    console.log(count);
+    count++;
+}
+while(count <= 5)
+    console.log("outside do...while")
